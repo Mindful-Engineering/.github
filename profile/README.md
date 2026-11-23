@@ -1,6 +1,10 @@
+<img width="1536" height="1024" alt="Mindful Engineering Tech Banner (1)" src="https://github.com/user-attachments/assets/9284389a-6cdf-4d32-94f7-90409787e511" />
+
+
 # Mindful Engineering
 
 **Engineering thoughtful solutions. Building technology that matters.**
+
 
 Mindful Engineering is an independent, community-driven engineering organization focused on the design, development, and maintenance of open-source software.
 
